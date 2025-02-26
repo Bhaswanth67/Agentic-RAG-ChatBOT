@@ -1,0 +1,27 @@
+# Core dependencies
+streamlit
+python-dotenv
+
+# CrewAI and related tools
+crewai
+crewai-tools
+firecrawl-py
+
+# Vector database and embeddings
+qdrant-client
+sentence-transformers
+
+# Document processing
+markitdown
+chonkie
+
+# Machine Learning
+numpy
+
+# Development tools
+ipython
+notebook
+
+# Optional: For development and testing
+black
+pylint
