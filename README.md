@@ -6,6 +6,8 @@ The **Agentic RAG Chatbot** is a Retrieval-Augmented Generation (RAG) system des
 
 ## Project Demo URL - https://drive.google.com/file/d/1pEXn6LGO1uSVFOJSPdYwx5Rn_eriM3A4/view?usp=sharing
 
+## You can find complete code in this repo - https://github.com/Bhaswanth67/FinBOT-Agentic-RAG-ChatBOT
+
 ## I'm still trying to increase the chatbot's response time. Soon, I will upload the code.
 
 ---
